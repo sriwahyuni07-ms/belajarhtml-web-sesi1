@@ -29,6 +29,12 @@ color: white;
 font-size: 30px;
 
 }
+/* data dari pemanggilan java script biodata */
+#biodata { 
+    background: red;
+    width: 500px;
+    height: 500px;
+}
 
 .li-navbar:hover {
 background-color:  tomato;
